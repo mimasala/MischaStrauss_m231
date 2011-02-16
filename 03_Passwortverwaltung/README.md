@@ -21,3 +21,6 @@ Ich habe Keepass2 gewählt, weil es eine sehr gute reputation hat. (laut interne
 # Installation
 Man kann keepass von der volgenden Webseite herunterladen (URL:"https://keepass.info/help/v2/setup.html"). danach die .exe öffnen und dem setup wizard folgen.
 Danach hat 
+
+Keepass2 in action:
+![screenshot of keepass2](../images/Screenshot%202022-01-04%20143436.jpg)
