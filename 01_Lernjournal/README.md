@@ -1,40 +1,45 @@
-# Lernjournal  <!-- omit in toc -->
+# Lernjournal
 
-# Inhaltsverzeichnis  <!-- omit in toc -->
-- [1. Bis 19.09.2021](#1-bis-19092021)
-- [2. 20.09.2021](#2-20092021)
-  - [2.1. Ziele](#21-ziele)
-  - [2.2. Auswertung](#22-auswertung)
-- [3. 27.09.2021](#3-27092021)
-- [4. 04.10.2021](#4-04102021)
-- [5. 25.10.2021](#5-25102021)
-- [6. Quellen](#6-quellen)
+## Inhaltsverzeichnis 
+- [Lernjournal](#lernjournal)
+  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
+  - [1. Lernjournale](#1-lernjournale)
+      - [1.1 - 23.11.2021](#11---23112021)
+        - [1.1.1 Welche Inhalte habe ich heute bearbeitet?](#111-welche-inhalte-habe-ich-heute-bearbeitet)
+        - [1.1.2 Was habe ich heute erreicht?](#112-was-habe-ich-heute-erreicht)
+        - [1.1.3 Was nehme ich mit?](#113-was-nehme-ich-mit)
+        - [1.1.4 Wo hatte ich Schwierigkeiten?](#114-wo-hatte-ich-schwierigkeiten)
+        - [1.1.5 Was muss ich zu Hause nochmals genauer anschauen?](#115-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
+    - [1.2. hausaufgaben](#12-hausaufgaben)
+    - [git lesen bis s.23](#git-lesen-bis-s23)
+    - [repo fertig](#repo-fertig)
+  - [### git branching](#-git-branching)
+  - [2. Quellen](#2-quellen)
 
-# 1. Bis 19.09.2021
-Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
+## 1. Lernjournale
 
+#### 1.1 - 23.11.2021
 
-# 2. 20.09.2021
-## 2.1. Ziele
- - Z1: Eigenes Lernportfolio auf gitlab eingerichtet und Lehrperson freigegeben. 
+##### 1.1.1 Welche Inhalte habe ich heute bearbeitet?
+Mit markdown habe ich ein Dokument bearbeitet und somit den Syntax und die "tags" von markdown kennengelernt.
+##### 1.1.2 Was habe ich heute erreicht?
+Ich konnte mit OpenSSH ein repo klonen und erstellen. 
+ich konnte Markdown lernen
+##### 1.1.3 Was nehme ich mit?
+Ich habe gelernt, wie man mit github ein Repo mit ssh klont.
+Als programmierer muss man die Daten der Kunden schützen.
+##### 1.1.4 Wo hatte ich Schwierigkeiten? 
+ich hatte schwierigkeiten mit dem secure shell klonen vom repo
+##### 1.1.5 Was muss ich zu Hause nochmals genauer anschauen?
+Ich muss den Markdown syntax lernen.
 
+---
+### 1.2. hausaufgaben 
 
-## 2.2. Auswertung
- - Z1: Erledigt Link: https://gitlab.com/ch-tbz-it/Stud/m231
+### git lesen bis s.23
+### repo fertig 
+### git branching
+---
 
-# 3. 27.09.2021
-| Ziel | Auswertung   |
-|----------------------------------------------------------------------------------|---------------------------------------------------|
-| Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.       | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
-| Ein Passwortverwaltungsprogramm für mich selbst ausgewählt.  | Keepass => Done  |
-| Passwortverwaltungsprogramm eingerichtet und auf dem eigenen Gerät installiert.  | Done  |
-| usw….                | | 
+## 2. Quellen
 
-
-# 4. 04.10.2021
-
-# 5. 25.10.2021
-
-
-
-# 6. Quellen
