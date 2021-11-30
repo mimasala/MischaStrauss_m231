@@ -33,12 +33,26 @@ ich hatte schwierigkeiten mit dem secure shell klonen vom repo
 ##### 1.1.5 Was muss ich zu Hause nochmals genauer anschauen?
 Ich muss den Markdown syntax lernen.
 
+#### 1.2 - 30.11.2021
+
+##### 1.1.1 Welche Inhalte habe ich heute bearbeitet?
+Bruteforce und python
+##### 1.1.2 Was habe ich heute erreicht?
+ich konnte ein login mit social engineering bruteforcen
+##### 1.1.3 Was nehme ich mit?
+Der Aufbau eines guten Passworts
+##### 1.1.4 Wo hatte ich Schwierigkeiten? 
+Mir war das social engineering ein bisschen abstrakt
+##### 1.1.5 Was muss ich zu Hause nochmals genauer anschauen?
+Effizienter Passwörter knacken (bruteforcing und social engineering)
+
+
 ---
 ### 1.2. hausaufgaben 
 
-### git lesen bis s.23
-### repo fertig 
-### git branching
+#### fertig lesen
+#### repo fertig 
+#### git branching
 ---
 
 ## 2. Quellen
