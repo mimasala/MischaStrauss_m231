@@ -1,4 +1,4 @@
-# 231 - Persönliches Portfolio von Max Müller
+# 231 - Persönliches Portfolio von Mischa Strauss
 
 # Inhaltsverzeichnis
  - [Lernjournal](/01_Lernjournal/)
