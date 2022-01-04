@@ -22,14 +22,21 @@
         - [1.3.3 Was nehme ich mit?](#133-was-nehme-ich-mit)
         - [1.3.4 Wo hatte ich Schwierigkeiten?](#134-wo-hatte-ich-schwierigkeiten)
         - [1.3.5 Was muss ich zu Hause nochmals genauer anschauen?](#135-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
-      - [1.3 - 14.12.2021](#13---14122021)
+      - [1.4 - 14.12.2021](#14---14122021)
         - [1.4.1 Welche Inhalte habe ich heute bearbeitet?](#141-welche-inhalte-habe-ich-heute-bearbeitet)
         - [1.4.2 Was habe ich heute erreicht?](#142-was-habe-ich-heute-erreicht)
         - [1.4.3 Was nehme ich mit?](#143-was-nehme-ich-mit)
         - [1.4.4 Wo hatte ich Schwierigkeiten?](#144-wo-hatte-ich-schwierigkeiten)
         - [1.4.5 Was muss ich zu Hause nochmals genauer anschauen?](#145-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
     - [Hausaufgaben](#hausaufgaben)
+      - [1.5 - 7.12.2021](#15---7122021)
+        - [1.5.1 Welche Inhalte habe ich heute bearbeitet?](#151-welche-inhalte-habe-ich-heute-bearbeitet)
+        - [1.5.2 Was habe ich heute erreicht?](#152-was-habe-ich-heute-erreicht)
+        - [1.5.3 Was nehme ich mit?](#153-was-nehme-ich-mit)
+        - [1.5.4 Wo hatte ich Schwierigkeiten?](#154-wo-hatte-ich-schwierigkeiten)
+        - [1.5.5 Was muss ich zu Hause nochmals genauer anschauen?](#155-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
   - [4. Quellen](#4-quellen)
+      - [1.3 - 14.12.2021](#13---14122021)
         - [1.1.1 Welche Inhalte habe ich heute bearbeitet?](#111-welche-inhalte-habe-ich-heute-bearbeitet-1)
         - [1.1.2 Was habe ich heute erreicht?](#112-was-habe-ich-heute-erreicht-1)
         - [1.1.3 Was nehme ich mit?](#113-was-nehme-ich-mit-1)
@@ -88,7 +95,7 @@ was soziale medien noch speichern.#
 
 --- 
 
-#### 1.3 - 14.12.2021
+#### 1.4 - 14.12.2021
 
 ##### 1.4.1 Welche Inhalte habe ich heute bearbeitet?
 Wir haben einen Test geschrieben, über den Datenschutz und Git.
@@ -103,6 +110,30 @@ Ob ich verschiedene Passwörter benutzt habe bei verschiedenen Logins.
 
 ### Hausaufgaben
 
+
+
+--- 
+
+#### 1.5 - 7.12.2021
+##### 1.5.1 Welche Inhalte habe ich heute bearbeitet?
+verschlüsselungen
+Datenströmungen, Laufwerke, Dateien verschlüsseln
+Kryptografie
+symmetrische verschlüsselung
+asymmetrische verschlüsselung
+
+##### 1.5.2 Was habe ich heute erreicht?
+Ich konnte einige Aufgaben zur Verschlüsselung lösen
+
+##### 1.5.3 Was nehme ich mit?
+Nie enkrypte selbst implementieren.
+
+##### 1.5.4 Wo hatte ich Schwierigkeiten? 
+Ich hatte heute eigentlich keine grossen schwierigkeiten.
+
+##### 1.5.5 Was muss ich zu Hause nochmals genauer anschauen?
+was soziale medien noch speichern.#
+
 --- 
 ## 4. Quellen
 
@@ -111,7 +142,7 @@ Ob ich verschiedene Passwörter benutzt habe bei verschiedenen Logins.
 ---
 **notes**
 
-haha funny
+#### 1.3 - 14.12.2021
 ##### 1.1.1 Welche Inhalte habe ich heute bearbeitet?
 ##### 1.1.2 Was habe ich heute erreicht?
 ##### 1.1.3 Was nehme ich mit?
