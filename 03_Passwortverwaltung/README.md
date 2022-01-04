@@ -5,7 +5,7 @@
 |                                  | Keepass2 | strongbox | Bitwarden |
 |----------------------------------|----------|-----------|-----------|
 | automatische Passwortgenerierung | x        | x         | x         |
-| synchronisierbar                 | /        | x         | x         |
+| synchronisierbar                 | /*       | x         | x         |
 | Preis                            | gratis   | gratis    | gratis    |
 | Opensource                       | x        | x         | x         |
 | 2Factor authentifiacation        | lokal    | x         | lokal     |
@@ -14,6 +14,8 @@
 | Under Developement               | x        | x         | x         |
 | cloud sync                       |          | x         | x         |
 | external access                  |          | x         | x         |
+
+*ist nur lokal synchronisierbar.
 
 Ich habe Keepass2 gewählt, weil es eine sehr gute reputation hat. (laut internet) Ausserdem wird Keepass2 die Daten nicht vom computer wegschicken, also hat es kein cloudsync, was meine Chancen von Kontrolle über meine Passwörter erhöht.
 
