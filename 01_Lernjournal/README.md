@@ -28,7 +28,6 @@
         - [1.4.3 Was nehme ich mit?](#143-was-nehme-ich-mit)
         - [1.4.4 Wo hatte ich Schwierigkeiten?](#144-wo-hatte-ich-schwierigkeiten)
         - [1.4.5 Was muss ich zu Hause nochmals genauer anschauen?](#145-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
-    - [Hausaufgaben](#hausaufgaben)
       - [1.5 - 7.12.2021](#15---7122021)
         - [1.5.1 Welche Inhalte habe ich heute bearbeitet?](#151-welche-inhalte-habe-ich-heute-bearbeitet)
         - [1.5.2 Was habe ich heute erreicht?](#152-was-habe-ich-heute-erreicht)
@@ -108,7 +107,6 @@ Ich hatte ein bisschen schwierigkeiten am Test.
 ##### 1.4.5 Was muss ich zu Hause nochmals genauer anschauen?
 Ob ich verschiedene Passwörter benutzt habe bei verschiedenen Logins.
 
-### Hausaufgaben
 
 
 
@@ -123,16 +121,17 @@ symmetrische verschlüsselung
 asymmetrische verschlüsselung
 
 ##### 1.5.2 Was habe ich heute erreicht?
-Ich konnte einige Aufgaben zur Verschlüsselung lösen
+Ich konnte einige Aufgaben zur Verschlüsselung lösen.
+Applikationen um Daten zu enkrypten angeschaut
 
 ##### 1.5.3 Was nehme ich mit?
 Nie enkrypte selbst implementieren.
 
 ##### 1.5.4 Wo hatte ich Schwierigkeiten? 
-Ich hatte heute eigentlich keine grossen schwierigkeiten.
+Ich hatte heute keine Schwierigkeiten
 
 ##### 1.5.5 Was muss ich zu Hause nochmals genauer anschauen?
-was soziale medien noch speichern.#
+Was ich am besten mache, um meine Daten, die ich versende oder speichere enkrypte.
 
 --- 
 ## 4. Quellen
@@ -150,3 +149,4 @@ was soziale medien noch speichern.#
 ##### 1.1.5 Was muss ich zu Hause nochmals genauer anschauen?
 ---
 
+ 
