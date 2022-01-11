@@ -28,12 +28,18 @@
         - [1.4.3 Was nehme ich mit?](#143-was-nehme-ich-mit)
         - [1.4.4 Wo hatte ich Schwierigkeiten?](#144-wo-hatte-ich-schwierigkeiten)
         - [1.4.5 Was muss ich zu Hause nochmals genauer anschauen?](#145-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
-      - [1.5 - 7.12.2021](#15---7122021)
+  - [1.5 - 7.12.2021](#15---7122021)
         - [1.5.1 Welche Inhalte habe ich heute bearbeitet?](#151-welche-inhalte-habe-ich-heute-bearbeitet)
         - [1.5.2 Was habe ich heute erreicht?](#152-was-habe-ich-heute-erreicht)
         - [1.5.3 Was nehme ich mit?](#153-was-nehme-ich-mit)
         - [1.5.4 Wo hatte ich Schwierigkeiten?](#154-wo-hatte-ich-schwierigkeiten)
-        - [1.5.5 Was muss ich zu Hause nochmals genauer anschauen?](#155-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
+        - [1.5.5 Was muss ich zu Huse nochmals genauer anschauen?](#155-was-muss-ich-zu-huse-nochmals-genauer-anschauen)
+  - [1.6 - 7.12.2021](#16---7122021)
+        - [1.6.1 Welche Inhalte habe ich heute bearbeitet?](#161-welche-inhalte-habe-ich-heute-bearbeitet)
+        - [1.6.2 Was habe ich heute erreicht?](#162-was-habe-ich-heute-erreicht)
+        - [1.6.3 Was nehme ich mit?](#163-was-nehme-ich-mit)
+        - [1.6.4 Wo hatte ich Schwierigkeiten?](#164-wo-hatte-ich-schwierigkeiten)
+        - [1.6.5 Was muss ich zu Hause nochmals genauer anschauen?](#165-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
   - [4. Quellen](#4-quellen)
       - [1.3 - 14.12.2021](#13---14122021)
         - [1.1.1 Welche Inhalte habe ich heute bearbeitet?](#111-welche-inhalte-habe-ich-heute-bearbeitet-1)
@@ -112,7 +118,7 @@ Ob ich verschiedene Passwörter benutzt habe bei verschiedenen Logins.
 
 --- 
 
-#### 1.5 - 7.12.2021
+## 1.5 - 7.12.2021
 ##### 1.5.1 Welche Inhalte habe ich heute bearbeitet?
 verschlüsselungen
 Datenströmungen, Laufwerke, Dateien verschlüsseln
@@ -130,8 +136,25 @@ Nie enkrypte selbst implementieren.
 ##### 1.5.4 Wo hatte ich Schwierigkeiten? 
 Ich hatte heute keine Schwierigkeiten
 
-##### 1.5.5 Was muss ich zu Hause nochmals genauer anschauen?
-Was ich am besten mache, um meine Daten, die ich versende oder speichere enkrypte.
+##### 1.5.5 Was muss ich zu Huse nochmals genauer anschauen?
+Was ich am besten mache, um meine Daten, die ich versende oder speichere enkrypte.##
+
+## 1.6 - 7.12.2021
+##### 1.6.1 Welche Inhalte habe ich heute bearbeitet?
+Ich habe eine Liste von Applikationen gemacht. Zu diesen habe ich einige Attribute angegeben und eine Massnahme dazu geschrieben. 
+Dazu habe ich noch eine Visualisierung gemacht.
+
+##### 1.6.2 Was habe ich heute erreicht?
+Ich konnte weiteres über meine Programme auf meinen Geräten erfahren.
+
+##### 1.6.3 Was nehme ich mit?
+Ich werde je nach dem die Massnahmen, die ich erstellt habe ergreifen.
+
+##### 1.6.4 Wo hatte ich Schwierigkeiten? 
+Ich wusste nicht wo es gefahren gab und ich wusste nicht welche Programme ich aufschreiben sollte.
+
+##### 1.6.5 Was muss ich zu Hause nochmals genauer anschauen?
+Ich werde noch im Internet recherchieren, bezüglich den Applikationen. Ausserdem will ich ein besseres Operating system auf meinem PC.
 
 --- 
 ## 4. Quellen
