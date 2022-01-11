@@ -15,7 +15,8 @@
 | cloud sync                       |          | x         | x         |
 | external access                  |          | x         | x         |
 
-*ist nur lokal synchronisierbar.
+*ist nur lokal synchronisierbar. Das Heisst man kann die Daten lokal auf ein File speichern. Dieses File kann man dann an ein anderes Gerät
+verschicken, um die Passwörter auf verschiedenen Geräten hat. Jedoch, wenn man etwas bei einem anderen Gerät ein neues Passwort speichert, wird dieses auf den anderen Geräten nicht automatisch angezeigt.
 
 Ich habe Keepass2 gewählt, weil es eine sehr gute reputation hat. (laut internet) Ausserdem wird Keepass2 die Daten nicht vom computer wegschicken, also hat es kein cloudsync, was meine Chancen von Kontrolle über meine Passwörter erhöht.
 
