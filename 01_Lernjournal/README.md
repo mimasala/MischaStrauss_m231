@@ -40,6 +40,12 @@
         - [1.6.3 Was nehme ich mit?](#163-was-nehme-ich-mit)
         - [1.6.4 Wo hatte ich Schwierigkeiten?](#164-wo-hatte-ich-schwierigkeiten)
         - [1.6.5 Was muss ich zu Hause nochmals genauer anschauen?](#165-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
+      - [1.7 - 7.12.2021](#17---7122021)
+        - [1.7.1 Welche Inhalte habe ich heute bearbeitet?](#171-welche-inhalte-habe-ich-heute-bearbeitet)
+        - [1.7.2 Was habe ich heute erreicht?](#172-was-habe-ich-heute-erreicht)
+        - [1.7.3 Was nehme ich mit?](#173-was-nehme-ich-mit)
+        - [1.7.4 Wo hatte ich Schwierigkeiten?](#174-wo-hatte-ich-schwierigkeiten)
+        - [1.7.5 Was muss ich zu Hause nochmals genauer anschauen?](#175-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
   - [4. Quellen](#4-quellen)
       - [1.3 - 14.12.2021](#13---14122021)
         - [1.1.1 Welche Inhalte habe ich heute bearbeitet?](#111-welche-inhalte-habe-ich-heute-bearbeitet-1)
@@ -154,6 +160,18 @@ Ich wusste nicht wo es gefahren gab und ich wusste nicht welche Programme ich au
 
 ##### 1.6.5 Was muss ich zu Hause nochmals genauer anschauen?
 Ich werde noch im Internet recherchieren, bezüglich den Applikationen. Ausserdem will ich ein besseres Operating system auf meinem PC.
+
+#### 1.7 - 7.12.2021
+##### 1.7.1 Welche Inhalte habe ich heute bearbeitet?
+Ich konnte eine Präsentation über Datensicherungssziele und Datenkompressionen schreiben
+##### 1.7.2 Was habe ich heute erreicht?
+Ich konnte durch eine Präsentation einige Themen über backups lernen.
+##### 1.7.3 Was nehme ich mit?
+Ich werde versuchen eine eigene cloud aufzubauen, mitdem ich automatisch backups erstellen kann.
+##### 1.7.4 Wo hatte ich Schwierigkeiten? 
+Ich hatte ein bisschen schwierigkeiten ein Thema zu verstehen, über das ich einen vortrag machen musste. (Datensicherungssziele).
+##### 1.7.5 Was muss ich zu Hause nochmals genauer anschauen?
+Ich werde zuhause noch einmal die Inkrementations- und differenzielle speicherung anschauen.
 
 --- 
 ## 4. Quellen
