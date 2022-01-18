@@ -4,6 +4,8 @@
 
 |                                  | Keepass2 | strongbox | Bitwarden |
 |----------------------------------|----------|-----------|-----------|
+|link|https://keepass.info/download.html|https://strongboxsafe.com/|https://bitwarden.com/|
+|verschlüsselung|256Bit-Rijndael|AES256|AES 256-Bit|
 | automatische Passwortgenerierung | x        | x         | x         |
 | synchronisierbar                 | /*       | x         | x         |
 | Preis                            | gratis   | gratis    | gratis    |
@@ -14,6 +16,8 @@
 | Under Developement               | x        | x         | x         |
 | cloud sync                       |          | x         | x         |
 | external access                  |          | x         | x         |
+
+
 
 *ist nur lokal synchronisierbar. Das Heisst man kann die Daten lokal auf ein File speichern. Dieses File kann man dann an ein anderes Gerät
 verschicken, um die Passwörter auf verschiedenen Geräten hat. Jedoch, wenn man etwas bei einem anderen Gerät ein neues Passwort speichert, wird dieses auf den anderen Geräten nicht automatisch angezeigt.

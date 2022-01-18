@@ -34,7 +34,7 @@
         - [1.5.3 Was nehme ich mit?](#153-was-nehme-ich-mit)
         - [1.5.4 Wo hatte ich Schwierigkeiten?](#154-wo-hatte-ich-schwierigkeiten)
         - [1.5.5 Was muss ich zu Huse nochmals genauer anschauen?](#155-was-muss-ich-zu-huse-nochmals-genauer-anschauen)
-  - [1.6 - 7.12.2021](#16---7122021)
+      - [1.6 - 7.12.2021](#16---7122021)
         - [1.6.1 Welche Inhalte habe ich heute bearbeitet?](#161-welche-inhalte-habe-ich-heute-bearbeitet)
         - [1.6.2 Was habe ich heute erreicht?](#162-was-habe-ich-heute-erreicht)
         - [1.6.3 Was nehme ich mit?](#163-was-nehme-ich-mit)
@@ -137,9 +137,8 @@ Nie enkrypte selbst implementieren.
 Ich hatte heute keine Schwierigkeiten
 
 ##### 1.5.5 Was muss ich zu Huse nochmals genauer anschauen?
-Was ich am besten mache, um meine Daten, die ich versende oder speichere enkrypte.##
-
-## 1.6 - 7.12.2021
+Was ich am besten mache, um meine Daten, die ich versende oder speichere enkrypte.
+#### 1.6 - 7.12.2021
 ##### 1.6.1 Welche Inhalte habe ich heute bearbeitet?
 Ich habe eine Liste von Applikationen gemacht. Zu diesen habe ich einige Attribute angegeben und eine Massnahme dazu geschrieben. 
 Dazu habe ich noch eine Visualisierung gemacht.
@@ -172,4 +171,3 @@ Ich werde noch im Internet recherchieren, bezüglich den Applikationen. Ausserde
 ##### 1.1.5 Was muss ich zu Hause nochmals genauer anschauen?
 ---
 
- 
