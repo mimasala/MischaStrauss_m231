@@ -18,7 +18,6 @@
 | external access                  |          | x         | x         |
 
 
-
 *ist nur lokal synchronisierbar. Das Heisst man kann die Daten lokal auf ein File speichern. Dieses File kann man dann an ein anderes Gerät
 verschicken, um die Passwörter auf verschiedenen Geräten hat. Jedoch, wenn man etwas bei einem anderen Gerät ein neues Passwort speichert, wird dieses auf den anderen Geräten nicht automatisch angezeigt.
 
