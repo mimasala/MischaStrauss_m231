@@ -1,8 +1,10 @@
 # 231 - Programmanalyse
-
+![picture of visualisation](../images/anonymTwit.jpg)
 # Ausgewählte(r) Service / Applikation
 - Twitter
 Die privacy Policy findet man unter https://twitter.com/en/privacy
+
+
 
 # Datenspeicherort
 Die gesammelten Daten werden von Twitter servers aufbewahrt und Auch Lokal auf dem Handy. 
