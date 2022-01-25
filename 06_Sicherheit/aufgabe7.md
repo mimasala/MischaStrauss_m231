@@ -10,7 +10,7 @@ Mit den Zugansdaten zu meinem Passwort Manager.
 
 # Checklisten des Datenschutzbeauftragten des Kantons Zürichs
 
-# Checkliste Smartphone-Sicherheit erhöhen
+### Checkliste Smartphone-Sicherheit erhöhen
  - Link: https://www.datenschutz.ch/meine-daten-schuetzen/smartphone-sicherheit-erhoehen
  - 01 Gerätesperren aktivieren
     - Ich habe eine Sperre von vier stellen eingestellt. Somit gibt es 10000 verschiedene kombinationen vond PINs.
@@ -29,7 +29,7 @@ Mit den Zugansdaten zu meinem Passwort Manager.
    - Wenn ich am schlafen bin, aktiviere ich den Flugmodus, somit bin ich von jeglichen dingen disconnected.
 
 
-# Checkliste Laptop-Sicherheit erhöhen
+### Checkliste Laptop-Sicherheit erhöhen
  - Link: https://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schrittenhttps://www.datenschutz.ch/meine-daten-schuetzen/pc-sicherheit-erhoehen-in-fuenf-schritten
  - 01 Persönliche Informationen schützen
    - Ich habe bei einer Registration so wenig Persönliche Daten angegeben. Ich bin durch die einzelnen Links auf der Webseite Gegangen und die Chaches von den Browsers, die ich nutze, gelöscht.
