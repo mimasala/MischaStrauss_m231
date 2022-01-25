@@ -46,6 +46,12 @@
         - [1.7.3 Was nehme ich mit?](#173-was-nehme-ich-mit)
         - [1.7.4 Wo hatte ich Schwierigkeiten?](#174-wo-hatte-ich-schwierigkeiten)
         - [1.7.5 Was muss ich zu Hause nochmals genauer anschauen?](#175-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
+      - [1.8 - 4.1.2021](#18---412021)
+        - [1.8.1 Welche Inhalte habe ich heute bearbeitet?](#181-welche-inhalte-habe-ich-heute-bearbeitet)
+        - [1.8.2 Was habe ich heute erreicht?](#182-was-habe-ich-heute-erreicht)
+        - [1.8.3 Was nehme ich mit?](#183-was-nehme-ich-mit)
+        - [1.8.4 Wo hatte ich Schwierigkeiten?](#184-wo-hatte-ich-schwierigkeiten)
+        - [1.8.5 Was muss ich zu Hause nochmals genauer anschauen?](#185-was-muss-ich-zu-hause-nochmals-genauer-anschauen)
   - [4. Quellen](#4-quellen)
       - [1.3 - 14.12.2021](#13---14122021)
         - [1.1.1 Welche Inhalte habe ich heute bearbeitet?](#111-welche-inhalte-habe-ich-heute-bearbeitet-1)
@@ -169,6 +175,17 @@ Ich werde versuchen eine eigene cloud aufzubauen, mitdem ich automatisch backups
 Ich hatte ein bisschen schwierigkeiten ein Thema zu verstehen, über das ich einen vortrag machen musste. (Datensicherungssziele).
 ##### 1.7.5 Was muss ich zu Hause nochmals genauer anschauen?
 Ich werde zuhause noch einmal die Inkrementations- und differenzielle speicherung anschauen.
+#### 1.8 - 4.1.2021
+##### 1.8.1 Welche Inhalte habe ich heute bearbeitet?
+Ich habe die letzten Änderungen am Portfolio Gemacht.
+##### 1.8.2 Was habe ich heute erreicht?
+Ich konnte Das Portfolio abgeben und einen 5er holen.
+##### 1.8.3 Was nehme ich mit?
+ich werde das Portfolio nun ausführlicher führen und manchmal etwas mehr, als verlangt ist machen.
+##### 1.8.4 Wo hatte ich Schwierigkeiten? 
+ich hatte heute keine grossen schwierigkeiten
+##### 1.8.5 Was muss ich zu Hause nochmals genauer anschauen?
+Ich will mein NAS einstellen und vielleicht ein eigenen VPN machen.
 
 --- 
 ## 4. Quellen
